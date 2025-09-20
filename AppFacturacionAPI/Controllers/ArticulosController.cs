@@ -1,61 +1,54 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using AppFacturacion25.Domain.Services;
-using AppFacturacion25.Domain.Domain;
+﻿using Microsoft.AspNetCore.Mvc;
+using AppFacturacion25.Domain.Interfaces;
+using AppFacturacionAPI.Entities;
+using System.Threading.Tasks;
+using System.Collections.Generic;
 
-namespace AppFacturacionAPI.Controllers
+[ApiController]
+[Route("api/[controller]")]
+public class ArticulosController : ControllerBase
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class ArticulosController : ControllerBase
+    private readonly IRepository<Articulo> _repo;
+
+    public ArticulosController(IRepository<Articulo> repo)
     {
-        private readonly ArticuloService _service;
+        _repo = repo;
+    }
 
-        public ArticulosController(ArticuloService service)
-        {
-            _service = service;
-        }
+    [HttpGet]
+    public async Task<IActionResult> GetAll()
+    {
+        var articulos = await _repo.GetAllAsync();
+        return Ok(articulos);
+    }
 
-        // GET api/articulos
-        [HttpGet]
-        public ActionResult<List<Articulo>> GetAll()
-        {
-            return Ok(_service.ObtenerTodos());
-        }
+    [HttpGet("{id}")]
+    public async Task<IActionResult> GetById(int id)
+    {
+        var art = await _repo.GetByIdAsync(id);
+        if (art == null) return NotFound();
+        return Ok(art);
+    }
 
-        // GET api/articulos/5
-        [HttpGet("{id}")]
-        public ActionResult<Articulo> GetById(int id)
-        {
-            var art = _service.ObtenerPorId(id);
-            if (art == null) return NotFound();
-            return Ok(art);
-        }
+    [HttpPost]
+    public async Task<IActionResult> Create([FromBody] Articulo articulo)
+    {
+        await _repo.AddAsync(articulo);
+        return CreatedAtAction(nameof(GetById), new { id = articulo.IdArticulo }, articulo);
+    }
 
-        // POST api/articulos
-        [HttpPost]
-        public IActionResult Create([FromBody] Articulo articulo)
-        {
-            _service.Guardar(articulo);
-            return CreatedAtAction(nameof(GetById), new { id = articulo.IdArticulo }, articulo);
-        }
+    [HttpPut("{id}")]
+    public async Task<IActionResult> Update(int id, [FromBody] Articulo articulo)
+    {
+        if (id != articulo.IdArticulo) return BadRequest();
+        await _repo.UpdateAsync(articulo);
+        return NoContent();
+    }
 
-        // PUT api/articulos/5
-        [HttpPut("{id}")]
-        public IActionResult Update(int id, [FromBody] Articulo articulo)
-        {
-            if (id != articulo.IdArticulo) return BadRequest();
-            _service.Guardar(articulo);
-            return NoContent();
-        }
-
-        // DELETE api/articulos/5
-        [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
-        {
-            // Podés implementar un SP_DELETE_ARTICULO
-            return StatusCode(501, "Delete no implementado todavía.");
-        }
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> Delete(int id)
+    {
+        await _repo.DeleteAsync(id);
+        return NoContent();
     }
 }
-

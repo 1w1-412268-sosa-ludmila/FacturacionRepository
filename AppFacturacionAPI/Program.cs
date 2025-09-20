@@ -1,27 +1,24 @@
-using AppFacturacion25.Domain.Implementations;
-using AppFacturacion25.Domain.Interfaces;
-using AppFacturacion25.Domain.Services;
+using Microsoft.EntityFrameworkCore;
+using AppFacturacionAPI.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Configura la cadena de conexión desde appsettings.json
+var connectionString = builder.Configuration.GetConnectionString("FacturacionDB");
+
+// Registra el DbContext para la inyección de dependencias
+builder.Services.AddDbContext<FacturacionContext>(options =>
+    options.UseSqlServer(connectionString));
+
+// Registra el repositorio genérico con el patrón de inyección de dependencias
+builder.Services.AddScoped(typeof(IRepository<>), typeof(RepositoryEF<>));
 
 builder.Services.AddControllers();
-builder.Services.AddScoped<ArticuloService>();
-builder.Services.AddScoped<FacturaService>();
-builder.Services.AddScoped<FormaPagoService>();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddControllers();
-builder.Services.AddScoped<IArticuloRepository, ArticuloRepository>();
-builder.Services.AddScoped<IFacturaRepository, FacturaRepository>();
-builder.Services.AddScoped<IFormaPagoRepository, FormaPagoRepository>();
-
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -29,9 +26,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

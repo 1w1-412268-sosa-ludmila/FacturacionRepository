@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\data\\datahelpercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\data\\datahelpercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|solutionrelative:appfacturacionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacionapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|solutionrelative:appfacturacionapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\implementations\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\implementations\\repositoryef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacionapi\\appfacturacionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|solutionrelative:appfacturacionapi\\appfacturacionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacionapi\\context\\facturacioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|solutionrelative:appfacturacionapi\\context\\facturacioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacionapi\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|solutionrelative:appfacturacionapi\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\implementations\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,32 +35,12 @@
       "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\implementations\\formapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\implementations\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\implementations\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacionapi\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|solutionrelative:appfacturacionapi\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacionapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0540D3A-6AF4-4AD5-8200-3977DE869A94}|AppFacturacionAPI\\AppFacturacionAPI.csproj|solutionrelative:appfacturacionapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\services\\formapagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\services\\formapagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\interfaces\\iformapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\interfaces\\iformapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\data\\spparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\data\\spparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|c:\\users\\asus\\source\\repos\\appfacturacion25\\appfacturacion25.domain\\appfacturacion25.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5C17E300-2E2D-4B2F-9B0D-B77DB146514F}|AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj|solutionrelative:appfacturacion25.domain\\appfacturacion25.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -95,103 +83,61 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormaPagoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\FormaPagoRepository.cs",
-              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Implementations\\FormaPagoRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\FormaPagoRepository.cs",
-              "RelativeToolTip": "AppFacturacion25.Domain\\Implementations\\FormaPagoRepository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:07:52.261Z",
+              "Title": "AppFacturacionAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacionAPI\\AppFacturacionAPI.csproj",
+              "RelativeDocumentMoniker": "AppFacturacionAPI\\AppFacturacionAPI.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacionAPI\\AppFacturacionAPI.csproj",
+              "RelativeToolTip": "AppFacturacionAPI\\AppFacturacionAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T00:49:16.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FacturaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\FacturaRepository.cs",
-              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Implementations\\FacturaRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\FacturaRepository.cs",
-              "RelativeToolTip": "AppFacturacion25.Domain\\Implementations\\FacturaRepository.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwAoAAAAxAAAAAAAAAA==",
+              "Title": "RepositoryEF.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\RepositoryEF.cs",
+              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Implementations\\RepositoryEF.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\RepositoryEF.cs",
+              "RelativeToolTip": "AppFacturacion25.Domain\\Implementations\\RepositoryEF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:07:08.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataHelpercs.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Data\\DataHelpercs.cs",
-              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Data\\DataHelpercs.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Data\\DataHelpercs.cs",
-              "RelativeToolTip": "AppFacturacion25.Domain\\Data\\DataHelpercs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T20:59:51.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T00:08:41.187Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ArticuloRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\ArticuloRepository.cs",
-              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Implementations\\ArticuloRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\ArticuloRepository.cs",
-              "RelativeToolTip": "AppFacturacion25.Domain\\Implementations\\ArticuloRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Title": "FacturacionContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacionAPI\\Context\\FacturacionContext.cs",
+              "RelativeDocumentMoniker": "AppFacturacionAPI\\Context\\FacturacionContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacionAPI\\Context\\FacturacionContext.cs",
+              "RelativeToolTip": "AppFacturacionAPI\\Context\\FacturacionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:04:51.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T23:46:37.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IFacturaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Interfaces\\IFacturaRepository.cs",
-              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Interfaces\\IFacturaRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Interfaces\\IFacturaRepository.cs",
-              "RelativeToolTip": "AppFacturacion25.Domain\\Interfaces\\IFacturaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:09:09.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FacturaService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Services\\FacturaService.cs",
-              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Services\\FacturaService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Services\\FacturaService.cs",
-              "RelativeToolTip": "AppFacturacion25.Domain\\Services\\FacturaService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwCIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:12:05.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ArticulosController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacionAPI\\Controllers\\ArticulosController.cs",
               "RelativeDocumentMoniker": "AppFacturacionAPI\\Controllers\\ArticulosController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacionAPI\\Controllers\\ArticulosController.cs",
               "RelativeToolTip": "AppFacturacionAPI\\Controllers\\ArticulosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:20:37.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T21:20:37.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacionAPI\\Program.cs",
               "RelativeDocumentMoniker": "AppFacturacionAPI\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacionAPI\\Program.cs",
               "RelativeToolTip": "AppFacturacionAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T21:19:32.921Z",
               "EditorCaption": ""
@@ -204,14 +150,37 @@
               "RelativeDocumentMoniker": "AppFacturacionAPI\\Controllers\\FacturasController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacionAPI\\Controllers\\FacturasController.cs",
               "RelativeToolTip": "AppFacturacionAPI\\Controllers\\FacturasController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:23:56.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T21:23:56.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Implementations\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\FacturaRepository.cs",
+              "RelativeToolTip": "AppFacturacion25.Domain\\Implementations\\FacturaRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAxwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T21:07:08.687Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "FormaPagoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\FormaPagoRepository.cs",
+              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Implementations\\FormaPagoRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Implementations\\FormaPagoRepository.cs",
+              "RelativeToolTip": "AppFacturacion25.Domain\\Implementations\\FormaPagoRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAxwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T21:07:52.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FormaPagoService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Services\\FormaPagoService.cs",
               "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Services\\FormaPagoService.cs",
@@ -219,8 +188,7 @@
               "RelativeToolTip": "AppFacturacion25.Domain\\Services\\FormaPagoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:13:01.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T21:13:01.173Z"
             },
             {
               "$type": "Document",
@@ -232,12 +200,11 @@
               "RelativeToolTip": "AppFacturacion25.Domain\\Interfaces\\IFormaPagoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:09:45.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T21:09:45.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ArticuloService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Services\\ArticuloService.cs",
               "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Services\\ArticuloService.cs",
@@ -245,12 +212,11 @@
               "RelativeToolTip": "AppFacturacion25.Domain\\Services\\ArticuloService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:10:38.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T21:10:38.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "IArticuloRepository.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Interfaces\\IArticuloRepository.cs",
               "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Interfaces\\IArticuloRepository.cs",
@@ -258,12 +224,11 @@
               "RelativeToolTip": "AppFacturacion25.Domain\\Interfaces\\IArticuloRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:08:37.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T21:08:37.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "FormaPago.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Domain\\FormaPago.cs",
               "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Domain\\FormaPago.cs",
@@ -271,12 +236,11 @@
               "RelativeToolTip": "AppFacturacion25.Domain\\Domain\\FormaPago.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:03:49.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T21:03:49.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Factura.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Domain\\Factura.cs",
               "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Domain\\Factura.cs",
@@ -284,12 +248,11 @@
               "RelativeToolTip": "AppFacturacion25.Domain\\Domain\\Factura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:03:13.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T21:03:13.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "DetalleFactura.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Domain\\DetalleFactura.cs",
               "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Domain\\DetalleFactura.cs",
@@ -297,25 +260,11 @@
               "RelativeToolTip": "AppFacturacion25.Domain\\Domain\\DetalleFactura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:02:47.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T21:02:47.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Domain\\Articulo.cs",
-              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Domain\\Articulo.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Domain\\Articulo.cs",
-              "RelativeToolTip": "AppFacturacion25.Domain\\Domain\\Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:02:12.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "SpParameter.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\Data\\SpParameter.cs",
               "RelativeDocumentMoniker": "AppFacturacion25.Domain\\Data\\SpParameter.cs",
@@ -323,21 +272,7 @@
               "RelativeToolTip": "AppFacturacion25.Domain\\Data\\SpParameter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T21:01:32.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppFacturacion25.Domain",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj",
-              "RelativeDocumentMoniker": "AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AppFacturacion25\\AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj",
-              "RelativeToolTip": "AppFacturacion25.Domain\\AppFacturacion25.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-13T20:57:52.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T21:01:32.993Z"
             }
           ]
         }
